@@ -1,4 +1,5 @@
 /* @pjs preload="data/photo1.jpg,
+                 data/Screenshot 2025-12-02 132511.png,
                  data/photo2.jpg,
                  data/photo3.jpg,
                  data/photo4.jpg,
