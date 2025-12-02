@@ -4,7 +4,7 @@ class Organizer{
     int current;
     float lastUpdate;
     Organizer(){
-        numPhotos=20;
+        numPhotos=22;
         pictures=new PImage[numPhotos];
         lastUpdate=millis();
         current=0;
