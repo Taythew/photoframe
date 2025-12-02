@@ -13,5 +13,6 @@
                  data/photo13.jpg,
                  data/photo14.jpg,
                  data/photo15.jpg,
+                 data/Screenshot 2025-12-02 132511.png
                  data/photo16.jpg";
 */
